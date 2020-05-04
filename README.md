@@ -1,2 +1,2 @@
 # StitchBot
-Bot para Discord
+Este bot foi criado para ajudar seu Servidor!
